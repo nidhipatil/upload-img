@@ -1,0 +1,31 @@
+.container{
+background-image: url(bg33.jpeg);
+background-size:80%;
+height:120vh;
+background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.container h1{
+color:navy;
+font-size: 50px;
+margin-left: 15%;
+}
+
+input
+{
+font-size: 20px;
+justify-content: center;
+margin-left: 50px;
+margin-top: 10px;
+   
+}
+
+.new{
+	
+	width: 79%;
+	
+}
+
